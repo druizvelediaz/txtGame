@@ -1,0 +1,16 @@
+.col-sm-10{
+    position: relative;
+    margin: 20px;
+}
+
+.row{
+    position: relative;
+    padding: 20px;
+}
+
+Button{
+    position: relative;
+    display: inline-block;
+    width: 0%;
+    margin: 40px;
+}
